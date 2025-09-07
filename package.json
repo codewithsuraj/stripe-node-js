@@ -1,0 +1,16 @@
+{
+  "name": "stripe-node",
+  "version": "1.0.0",
+  "description": "Stripe Payment Gateway API Integration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "stripe": "^18.4.0"
+  }
+}

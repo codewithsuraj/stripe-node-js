@@ -1,0 +1,15 @@
+# Project Name
+
+## Description
+
+A brief description of the project goes here.
+
+## Installation
+
+1. Clone the repository or download the source code.
+2. Install the necessary dependencies by running the following command in the project directory:
+
+```bash
+npm install
+npm run dev
+```
